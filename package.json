@@ -1,0 +1,8 @@
+{
+  "name": "seti-hyper",
+  "version": "0.0.1",
+  "keywords": ["hyper", "seti", "seti-ui"],
+  "description": "Seti UI theme for Hyper.",
+  "license": "MIT",
+  "repository": "https://github.com/jesseweed/seti-hyper"
+}
