@@ -1,6 +1,6 @@
 {
   "name": "seti-hyper",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "keywords": ["hyper", "seti", "seti-ui"],
   "description": "Seti UI theme for Hyper.",
   "license": "MIT",
